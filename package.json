@@ -1,15 +1,19 @@
 {
   "name": "@yutahamasaki/my-map-function",
   "version": "1.0.1",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url":"git+https://github.com/yuta-hamasaki/npm-practice.git"
+    "url": "git+https://github.com/yuta-hamasaki/npm-practice.git"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Yuta Hamasaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuta-hamasaki/npm-practice/issues"
+  },
+  "homepage": "https://github.com/yuta-hamasaki/npm-practice#readme",
+  "description": ""
 }
